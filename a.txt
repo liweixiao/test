@@ -1,6 +1,6 @@
 aaaaaa
 
-this is new!!!!
+这个地方修改了之前的，是22test修改的
 
 
 
@@ -12,3 +12,5 @@ this is dev a.text file
 test add && commit
 asfdadsf
 sadf
+
+这里是22test添加的一行
