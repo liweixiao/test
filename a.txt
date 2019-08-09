@@ -8,3 +8,4 @@ this is new!!!!
 
 this is master a.text file!!!
 this is dev a.text file
+我是test，我修改了些信息
