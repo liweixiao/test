@@ -1,2 +1,0 @@
-1.redisÀ©Õ¹ÏÂÔØµØÖ·
-https://pecl.php.net/package/redis
