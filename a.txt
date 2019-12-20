@@ -11,3 +11,4 @@ this is dev a.text file
 我是test，我修改了些信息
 
 我是创建了point分支后，在master分支上面修改了一点东西
+我是在point分支，新增了点东西而已
