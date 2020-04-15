@@ -1,3 +1,4 @@
 var MY_OBJ = {
-	name:'zhangsan'
+	name:'zhangsan',
+	sex:'man'
 }
